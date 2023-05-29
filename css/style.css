@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    inset: 0;
+    position: absolute;
+    margin: auto;
+    transition: .5s;
+}
+
+img {
+    cursor: pointer;
+    width: 100%;
+    max-width: 300px;
+}
+
+audio {
+    display: none;
+}
