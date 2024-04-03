@@ -1,15 +1,21 @@
-# Simple Lamp in CSS, HTML and JavaScript
+# Light Bulb Project
 
-This is a simple project of a lamp created using JavaScript, HTML, and CSS. The lamp can be turned on and off by clicking on it.
+This is a simple project of a light bulb created using HTML, CSS, and JavaScript. The light bulb can be turned on and off by clicking on it.
 
 ## Features
 
-- **Turn On/Off:** Click on the lamp to toggle between on and off states.
+- **Turn On/Off:** Click on the light bulb to toggle between on and off states.
 
 ## How to Use
 
 1. Clone this repository or download the ZIP file.
 2. Open the `index.html` file in your web browser.
-3. Click on the lamp to turn it on or off.
+3. Click on the light bulb to turn it on or off.
 
+## Project Structure
 
+light-bulb-project/
+│
+├── index.html # Main HTML file
+├── styles.css # CSS styles for the light bulb
+└── script.js # JavaScript file to control the light bulb
