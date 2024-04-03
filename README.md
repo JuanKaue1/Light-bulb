@@ -12,5 +12,4 @@ This is a simple project of a lamp created using JavaScript, HTML, and CSS. The 
 2. Open the `index.html` file in your web browser.
 3. Click on the lamp to turn it on or off.
 
-## Project Structure
 
