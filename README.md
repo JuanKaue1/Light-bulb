@@ -12,10 +12,3 @@ This is a simple project of a light bulb created using HTML, CSS, and JavaScript
 2. Open the `index.html` file in your web browser.
 3. Click on the light bulb to turn it on or off.
 
-## Project Structure
-
-light-bulb-project/
-│
-├── index.html # Main HTML file
-├── styles.css # CSS styles for the light bulb
-└── script.js # JavaScript file to control the light bulb
